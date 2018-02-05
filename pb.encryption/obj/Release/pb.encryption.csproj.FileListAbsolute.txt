@@ -1,0 +1,6 @@
+D:\pgram\pb.encryption\pb.encryption\bin\Release\pb.encryption.dll
+D:\pgram\pb.encryption\pb.encryption\bin\Release\pb.encryption.pdb
+D:\pgram\pb.encryption\pb.encryption\obj\Release\pb.encryption.csproj.CoreCompileInputs.cache
+D:\pgram\pb.encryption\pb.encryption\obj\Release\pb.encryption.dll
+D:\pgram\pb.encryption\pb.encryption\obj\Release\pb.encryption.pdb
+D:\pgram\pb.encryption\pb.encryption\obj\Release\pb.encryption.csprojResolveAssemblyReference.cache
